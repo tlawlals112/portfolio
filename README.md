@@ -13,7 +13,7 @@
 
 1. 저장소를 클론합니다:
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/tlawlals112/portfolio.git
 ```
 
 2. 의존성을 설치합니다:
